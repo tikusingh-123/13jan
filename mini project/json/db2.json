@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "categoryID": "1",
+      "question": "question1",
+      "option1": "op1",
+      "option2": "op2",
+      "option3": "op3",
+      "option4": "op4",
+      "answer": "op1"
+    },
+    {
+      "categoryID": 1,
+      "question": "question2",
+      "option1": "HEMANT ",
+      "option2": "f1ssfhgfh1sf",
+      "option3": "asda@cyb.com",
+      "option4": "fsdfsd",
+      "answer": "hemant",
+      "id": 2
+    }
+  ]
+}
